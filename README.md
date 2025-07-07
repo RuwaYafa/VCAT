@@ -31,6 +31,9 @@
 4. **Output Report**
    - Includes parsed results: timestamps, artifacts, confidence, GPS
    - Format aligned with forensic standards (NIST, SWGDE)
+5. *methodology**
+   - [V-CAT Method](https://github.com/user-attachments/files/21107721/V-CATMethod.drawio.pdf)
+
 
 ---
 
@@ -73,7 +76,7 @@ This tool is part of the master's thesis:
 
 > **“A Proposed Digital Forensic Tool for Video Content Analysis in the Investigation Process”**  
 > *by Ruwa’ Fayeq Suleiman Abu Hweidi – PTUK, 2024*  
-> [V-CATMethod.drawio.pdf](https://github.com/user-attachments/files/21107721/V-CATMethod.drawio.pdf)
+> [V-CAT](Forensic_Tool_for_Video_Content_Analysis_Ruwa_thesis (20).pdf)
 
 ---
 
