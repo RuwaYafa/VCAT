@@ -1,5 +1,5 @@
 
-# 🔍 VCAT – Video Content Analysis Tool for Digital Forensics
+# 😌 VCAT – Video Content Analysis Tool for Digital Forensics
 
 **VCAT** (Video Content Analysis Tool) is a digital forensic solution designed to assist analysts and law enforcement in processing and analyzing video evidence using AI-powered modules. It integrates object detection, OCR, and speech recognition into one streamlined pipeline.
 
@@ -18,7 +18,7 @@
 
 ## Workflow Overview
 
-![VCAT Flowchart]<img width="768" alt="Flowchart drawio" src="https://github.com/user-attachments/assets/94fa8ee8-d718-4bad-a406-3db8a35de34f" />
+<img width="768" alt="Flowchart drawio" src="https://github.com/user-attachments/assets/94fa8ee8-d718-4bad-a406-3db8a35de34f" />
 
 1. **Input**
    - Case info, forensic image, analyst data
@@ -36,7 +36,7 @@
 
 ## Sample UI
 
-![VCAT UI]<img width="561" alt="VCATUI" src="https://github.com/user-attachments/assets/5823d597-b298-4050-8e87-f58f6013fed2" />
+<img width="561" alt="VCATUI" src="https://github.com/user-attachments/assets/5823d597-b298-4050-8e87-f58f6013fed2" />
 
 - Google Colab form interface
 - Input fields for paths, case info, and prompts
