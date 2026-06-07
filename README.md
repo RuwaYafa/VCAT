@@ -77,7 +77,7 @@ This tool is part of the master's thesis:
 > **“A Proposed Digital Forensic Tool for Video Content Analysis in the Investigation Process”**  
 > *by Ruwa’ Fayeq Suleiman Abu Hweidi – PTUK, 2024*  
 > [V-CAT](Forensic_Tool_for_Video_Content_Analysis_Ruwa_thesis (20).pdf)
-
+> [URL](https://www.researchgate.net/publication/395325581_A_Proposed_Digital_Forensic_Tool_for_Video_Content_Analysis_in_the_Investigation_Process_Overcoming_Challenges_and_Improving_Efficiency?channel=doi&linkId=68c87ee09534473a6d4add98&showFulltext=true#fullTextFileContent).
 ---
 
 ## 📜 License
